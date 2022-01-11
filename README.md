@@ -34,4 +34,3 @@ move driver to the root of this project.
 ### 4. run `script.ipynb`
 
 run `script.ipynb` on your notebook
-# web_crawler_infinite_scroll
