@@ -31,9 +31,11 @@ download your driver here https://sites.google.com/chromium.org/driver/downloads
 
 move driver to the root of this project.
 
+
 ### 4. run `script.ipynb`
 
 run `script.ipynb` on your notebook
+
 
 ### 5. get result in `post_data.csv`
 
