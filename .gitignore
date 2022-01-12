@@ -1,4 +1,5 @@
 .env
-chromedriver.exe
-post_link.txt
-sample.csv
+chromedriver*
+*.txt
+*.csv
+*.html
