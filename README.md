@@ -1,6 +1,6 @@
 # web crawler infinite scroll
 
-get page content from facebook using
+get post content in ondimand page from facebook using selenium and beautifulsoup
 
 ## getting start
 
