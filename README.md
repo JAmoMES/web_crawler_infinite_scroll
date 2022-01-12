@@ -6,8 +6,14 @@ get page content from facebook using
 
 ### 1. Install all packets or run first cell on `script.ipynb`
 
+Window
 ```
-pip install python-dotenv beautifulsoup selenium
+pip install python-dotenv beautifulsoup4 selenium pandas numpy
+```
+MacOS, Linux
+
+```
+pip3 install python-dotenv beautifulsoup4 selenium pandas numpy
 ```
 
 ### 2. create ans setup `.env` file
