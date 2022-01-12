@@ -35,7 +35,7 @@ PASSWORD={your-password}
 
 download your driver here https://sites.google.com/chromium.org/driver/downloads?authuser=0
 
-move driver to the root of this project.
+move driver file to the root of the directory in this project.
 
 
 ### 4. run `script.ipynb`
